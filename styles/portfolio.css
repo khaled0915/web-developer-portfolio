@@ -147,4 +147,8 @@ main {
 .info-descriptoin{
     font-weight: bold;
     color: black;
+
+}
+#para-id{
+    padding: 30px 150px;
 }
